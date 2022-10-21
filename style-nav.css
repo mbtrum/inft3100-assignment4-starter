@@ -60,6 +60,9 @@ a.menu {
     .nav-collapse {
         display:none;
         background-color: violet;
+        position: absolute;
+        left: 2rem;
+        right: 2rem;
     }
 
     .nav-show {
